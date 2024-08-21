@@ -1,0 +1,65 @@
+body {
+  font-family: "Manrope", sans-serif;
+  width: 100%;
+  background: #f5f5f5;
+}
+.container {
+  margin: 0 auto;
+  width: 1400px;
+  background: #ffffff;
+  padding: 125px;
+}
+.interior {
+  margin-top: 30px;
+  padding-top: 379px;
+  padding-left: 40px;
+  height: 500px;
+  width: 1150px;
+  background-image: url("../resurces/interior.png");
+}
+.image-text {
+  width: 450px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27.32px;
+  letter-spacing: -0.03;
+  color: #ffffff;
+}
+h1 {
+  width: 956px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  text-align: left;
+  letter-spacing: -0.03;
+}
+h2 {
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 25px;
+  letter-spacing: -0.03;
+  text-align: left;
+}
+p.description {
+  margin-top: 30px;
+  font-size: 45px;
+  font-weight: 400px;
+  line-height: 61px;
+  text-align: left;
+  letter-spacing: -0.03;
+}
+a {
+  margin-top: 30px;
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #ad1818;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1c09e7; 
+  background-color: #ffffff;
+}
